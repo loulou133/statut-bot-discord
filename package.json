@@ -1,0 +1,20 @@
+{
+  "name": "statut_bot",
+  "version": "1.0.0",
+  "description": "Un bot pour le status de vos services",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RaphTahiti_",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.0",
+    "bent": "^7.3.12",
+    "bytesish": "^0.4.4",
+    "discord.js": "^12.2.0",
+    "is-stream": "^2.0.0",
+    "request": "^2.88.2",
+    "tcp-ping": "^0.1.1"
+  }
+}
